@@ -7,6 +7,7 @@ pathlib.PosixPath = pathlib.PureWindowsPath
 
 st.title("Mevalar modeli")
 st.write("Talaba: Yagafarov Dinmuhammad")
+st.markdown("[Anodra.uz](https://www.anodra.uz)")
 
 file = st.file_uploader("Rasm yuklash",type=['png','jpeg','svg','jfif'])
 
